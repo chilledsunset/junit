@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-08T15:44:43" hostname="DESKTOP-A8B7RQB" time="0.015">
+  <properties/>
+  <testcase name="testYmn()" classname="CalculatorTest" time="0.013"/>
+  <testcase name="testMinus()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testPlus()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testDelenie()" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
